@@ -2,3 +2,4 @@ streamlit
 pandas
 numpy
 ydata-profiling==4.6.3
+
